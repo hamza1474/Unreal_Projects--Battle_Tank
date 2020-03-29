@@ -31,8 +31,8 @@
 /wd4838
 /we4668
 /I .
-/I "D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank"
-/I "D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source"
+/I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank"
+/I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -259,12 +259,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source\BattleTank\BattleTankGameModeBase.cpp"
-/FI"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h"
-/Fo"D:\Projects\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
+/FI"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source\BattleTank\BattleTankGameModeBase.cpp"
+/FI"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h"
+/Fo"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

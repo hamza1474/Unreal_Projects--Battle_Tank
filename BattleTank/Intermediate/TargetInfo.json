@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "BattleTank",
-			"Path": "D:\\Projects\\Unreal Projects\\Unreal_Projects--Battle_Tank\\BattleTank\\Source\\BattleTank.Target.cs",
+			"Path": "C:\\Users\\AmeerHamza\\Documents\\Unreal Projects\\Unreal_Projects--Battle_Tank\\BattleTank\\Source\\BattleTank.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "BattleTankEditor",
-			"Path": "D:\\Projects\\Unreal Projects\\Unreal_Projects--Battle_Tank\\BattleTank\\Source\\BattleTankEditor.Target.cs",
+			"Path": "C:\\Users\\AmeerHamza\\Documents\\Unreal Projects\\Unreal_Projects--Battle_Tank\\BattleTank\\Source\\BattleTankEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
