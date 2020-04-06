@@ -31,6 +31,7 @@
 /wd4838
 /we4668
 /I .
+/I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source\BattleTank\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
 /I Runtime\Engine\Classes
@@ -230,6 +231,7 @@
 /I Runtime\AudioMixerCore\Public
 /I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank"
 /I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source"
+/I "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Source\BattleTank\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
