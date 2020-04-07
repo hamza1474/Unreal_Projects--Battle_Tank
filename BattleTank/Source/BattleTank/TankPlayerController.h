@@ -25,10 +25,14 @@ private:
 	UPROPERTY(EditAnywhere)
 	float CrossHairYLocation = 0.33f;
 
+protected:
+	UFUNCTION(BlueprintCallable, Category = "Setup")
+	ATank* GetControlledTank();
+
 public:
 	void BeginPlay() override;
 	void Tick(float DeltaTime) override;
-	ATank* GetControlledTank();
+	
 	void AimTowardsCrossHair();
 	bool GetSightRayHitLocation(FVector& HitLocation) const;
 	bool GetLookDirection(FVector2D ScreenLocation, FVector& OutLookDirection) const;
