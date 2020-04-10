@@ -1,22 +1,22 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "TankPlayerController.h"
-#include "Tank.h"
+#include "TankAimingComponent.h"
 #include "Camera/PlayerCameraManager.h"
 #include "Engine/World.h"
 
 void ATankPlayerController::BeginPlay()
 {
 	Super::BeginPlay();
-	auto ControlledTank = GetControlledTank();
-
-	if (!ControlledTank)
+	AimingComponent = GetPawn()->FindComponentByClass<UTankAimingComponent>();
+	if (ensure(AimingComponent))
 	{
-		UE_LOG(LogTemp, Error, TEXT("No Controlled Tank Detected"), *ControlledTank->GetName());
-		return;
+		FoundAimingComponent(AimingComponent);
 	}
-
-	UE_LOG(LogTemp, Warning, TEXT("Human player is controlling tank [%s]"), *ControlledTank->GetName());
+	else
+	{
+		UE_LOG(LogTemp, Warning, TEXT("NEW AIMING NOT FOUND"))
+	}
 }
 
 void ATankPlayerController::Tick(float DeltaTime)
@@ -25,18 +25,15 @@ void ATankPlayerController::Tick(float DeltaTime)
 	AimTowardsCrossHair();
 }
 
-ATank* ATankPlayerController::GetControlledTank()
-{
-	return Cast<ATank>(GetPawn());
-}
 
 void ATankPlayerController::AimTowardsCrossHair()
 {
-	if (!GetControlledTank()) { return; }
+	AimingComponent = GetPawn()->FindComponentByClass<UTankAimingComponent>();
+	if (!ensure(GetPawn() || AimingComponent)) { return; }
 	FVector OutHitLocation;
 	if (GetSightRayHitLocation(OUT OutHitLocation))
 	{
-		GetControlledTank()->AimAt(OutHitLocation);
+		AimingComponent->AimAt(OutHitLocation);
 	}
 }
 
@@ -47,11 +44,11 @@ bool ATankPlayerController::GetSightRayHitLocation(FVector& HitLocation) const
 
 	auto ScreenLocation = FVector2D(OutViewPortSize_X * CrossHairXLocation, OutViewPortSize_Y * CrossHairYLocation);
 	FVector OutLookDirection;
-	if (GetLookDirection(ScreenLocation, OUT OutLookDirection))
+	if (ensure(GetLookDirection(ScreenLocation, OUT OutLookDirection)))
 	{
-		GetLookVectorHitLocation(OUT HitLocation, OutLookDirection);
+		return GetLookVectorHitLocation(OUT HitLocation, OutLookDirection);
 	}
-	return true;
+	return false;
 }
 
 bool ATankPlayerController::GetLookDirection(FVector2D ScreenLocation, FVector& OutLookDirection) const

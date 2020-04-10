@@ -7,7 +7,6 @@ void UTankMovementComponent::IntendMoveForward(float Throw)
 {
 	LeftTrack->SetThrottle(Throw);
 	RightTrack->SetThrottle(Throw);
-	UE_LOG(LogTemp, Warning, TEXT("[%s] Throttle Set to [%f]"), *GetName(), Throw)
 }
 
 void UTankMovementComponent::IntendTurnRight(float Throw)
@@ -29,7 +28,7 @@ void UTankMovementComponent::RequestDirectMove(const FVector& MoveVelocity, bool
 
 void UTankMovementComponent::Initialise(UTankTrack* LeftTrackToSet, UTankTrack* RightTrackToSet)
 {
-	if (!LeftTrackToSet || !RightTrackToSet)
+	if (!ensure(LeftTrackToSet || RightTrackToSet))
 	{
 		return;
 	}
