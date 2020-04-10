@@ -24,4 +24,8 @@ protected:
 public:
 	void BeginPlay() override;
 	void Tick(float DeltaTime) override;
+	void SetPawn(APawn* InPawn) override;
+
+	UFUNCTION()
+	void OnPossessedTankDeath();
 };

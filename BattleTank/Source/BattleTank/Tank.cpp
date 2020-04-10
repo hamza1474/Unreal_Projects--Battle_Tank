@@ -26,3 +26,18 @@ void ATank::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 }
 
+float ATank::TakeDamage(float DamageAmount, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser)
+{
+	DamageAmount = FMath::Clamp(DamageAmount, 0.f, TankHitpoints);
+	TankHitpoints -= DamageAmount;
+	if (TankHitpoints <= 0)
+	{
+		OnDeath.Broadcast();
+	}
+	return Super::TakeDamage(DamageAmount, DamageEvent, EventInstigator, DamageCauser);
+}
+
+float ATank::GetHealthPercent() const
+{
+	return  TankHitpoints / 100;
+}

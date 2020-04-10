@@ -63,9 +63,14 @@ private:
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
 
 	FVector AimDirection;// = nullptr;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Setup")
 	float ReloadTimeInSeconds = 3;
+
 	double LastFireTime = 0;
-	int CurrentAmmo = 0;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Setup")
+	int CurrentAmmo = 10;
 
 	void MoveBarrel(FVector& AimDirection);
 		

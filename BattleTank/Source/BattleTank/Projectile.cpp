@@ -3,6 +3,8 @@
 
 #include "Projectile.h"
 #include "TimerManager.h"
+#include "GameFramework/DamageType.h"
+#include "Kismet/GameplayStatics.h"
 #include "Components/StaticMeshComponent.h"
 #include "PhysicsEngine/RadialForceComponent.h"
 #include "Particles/ParticleSystemComponent.h"
@@ -38,9 +40,6 @@ void AProjectile::BeginPlay()
 {
 	Super::BeginPlay();
 	CollisionMesh->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
-
-	
-	
 }
 
 void AProjectile::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit)
@@ -50,6 +49,15 @@ void AProjectile::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, U
 	ExplosionForce->FireImpulse();
 	FTimerHandle Timer;
 	GetWorld()->GetTimerManager().SetTimer(Timer, this, &AProjectile::DestroyProjectile, DestroyDelay, false);
+	UGameplayStatics::ApplyRadialDamage
+	(
+		this,
+		BaseDamage,
+		GetActorLocation(),
+		ExplosionForce->Radius,
+		UDamageType::StaticClass(),
+		TArray<AActor*>()
+	);
 }
 
 // Called every frame
@@ -67,6 +75,6 @@ void AProjectile::LaunchProjectile(float Speed)
 
 void AProjectile::DestroyProjectile()
 {
-	this->Destroy();
+	Destroy();
 }
 
