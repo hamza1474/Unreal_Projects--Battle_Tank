@@ -7,6 +7,7 @@
 #include "Projectile.generated.h"
 
 class UParticleSystemComponent;
+class URadialForceComponent;
 class UProjectileMovementComponent;
 
 UCLASS()
@@ -24,10 +25,14 @@ protected:
 
 public:	
 	// Called every frame
+
 	virtual void Tick(float DeltaTime) override;
 	void LaunchProjectile(float Speed);
 
 private:
+	UPROPERTY(EditDefaultsOnly, Category = "Setup")
+	float DestroyDelay = 10.f;
+
 	UProjectileMovementComponent* ProjectileMovement = nullptr;
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
@@ -38,5 +43,16 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	UParticleSystemComponent* ImpactBlast = nullptr;
+
+	UPROPERTY(VisibleAnywhere, Category = "Components")
+	URadialForceComponent* ExplosionForce = nullptr;
+
+	UFUNCTION(BlueprintCallable, Category = "Setup")
+	void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, 
+		UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
+
+	void DestroyProjectile();
+
+
 
 };
