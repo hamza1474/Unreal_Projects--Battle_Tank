@@ -1227,3 +1227,1724 @@ Script Stack (0 frames):
 [2020.04.11-13.17.33:209][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.11-13.17.33:219][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
 [2020.04.11-13.17.33:256][206]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.11-13.18.34:622][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.11-13.18.35:029][  9]LogSavePackage: Moving '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/BattleGround978D1C9E48C9BFAC6F79FAB479D704EC.tmp' to '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Content/_Levels/BattleGround.umap'
+[2020.04.11-13.18.35:072][  9]AssetCheck: New page: Asset Save: BattleGround
+[2020.04.11-13.18.35:072][  9]LogContentValidation: Display: Validating World /Game/_Levels/BattleGround.BattleGround
+[2020.04.11-13.26.00:018][425]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.11-13.26.07:437][846]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.11-13.26.58:925][872]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.26.59:269][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.11-13.29.14:044][608]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2020.04.11-13.29.47:112][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.04.11-13.29.47:488][403]LogSavePackage: Moving '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/BattleGround_Auto16DA0B223425E949E6F381198212877BE.tmp' to '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/Autosaves/Game/_Levels/BattleGround_Auto1.umap'
+[2020.04.11-13.29.47:490][403]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Levels/BattleGround' took 0.419
+[2020.04.11-13.29.47:490][403]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.419
+[2020.04.11-13.29.47:490][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/TankActor_BP] ([1] browsable assets)...
+[2020.04.11-13.29.47:504][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/TankActor_BP.TankActor_BP]
+[2020.04.11-13.29.47:504][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/TankActor_BP]
+[2020.04.11-13.29.47:550][403]LogSavePackage: Moving '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/TankActor_BP_Auto17935D33244FA4B8C623F40826979A3A8.tmp' to '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/Autosaves/Game/Tank/TankActor_BP_Auto1.uasset'
+[2020.04.11-13.29.47:552][403]LogFileHelpers: Auto-saving content packages took 0.063
+[2020.04.11-13.30.21:904][421]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.30.22:134][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.04.11-13.30.23:588][503]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.30.23:603][503]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.30.23:603][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.30.23:603][503]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:30:23 PM)
+[2020.04.11-13.30.23:603][503]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.30.23:735][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132086s)
+[2020.04.11-13.30.23:736][503]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.30.23:737][503]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2020.04.11-13.30.23:737][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.133309s)
+[2020.04.11-13.30.23:775][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.30.23:776][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.30.23:776][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.30.23:777][503]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.30.23:777][503]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.30.23:792][503]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.30.23:805][503]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.30.23:807][503]LogInit: FAudioDevice initialized.
+[2020.04.11-13.30.23:814][503]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.30.23:822][503]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.30.23
+[2020.04.11-13.30.23:822][503]LogWorld: Bringing up level for play took: 0.007693
+[2020.04.11-13.30.23:823][503]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.04.11-13.30.23:826][503]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.45
+[2020.04.11-13.30.23:826][503]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.30.46:895][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.30.46:896][886]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.30.46:916][886]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.30.46:917][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.30.46:917][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.30.46:917][886]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.30.46:917][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.30.46:917][886]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.30.46:918][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.30.46:934][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.30.46:934][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.30.46:940][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.30.46:974][886]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.30.46:977][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.30.46:986][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.11-13.30.47:010][887]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.11-13.31.03:794][880]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.31.04:059][880]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.11-13.31.05:052][936]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.31.05:067][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.05:067][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.31.05:067][936]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:31:05 PM)
+[2020.04.11-13.31.05:068][936]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.31.05:196][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129589s)
+[2020.04.11-13.31.05:197][936]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.31.05:197][936]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2020.04.11-13.31.05:197][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.130673s)
+[2020.04.11-13.31.05:238][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.31.05:239][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.31.05:239][936]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.31.05:239][936]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.31.05:254][936]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.31.05:264][936]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.31.05:266][936]LogInit: FAudioDevice initialized.
+[2020.04.11-13.31.05:272][936]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.31.05:280][936]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.31.05
+[2020.04.11-13.31.05:280][936]LogWorld: Bringing up level for play took: 0.007549
+[2020.04.11-13.31.05:280][936]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.04.11-13.31.05:283][936]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround -0.092
+[2020.04.11-13.31.05:283][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.11:346][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.11:366][299]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.31.11:386][299]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.31.11:386][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.11:386][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.31.11:386][299]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.31.11:386][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.11:386][299]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.31.11:387][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.31.11:402][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.31.11:403][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.11:407][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.31.11:441][299]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.11:443][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.31.11:453][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.11-13.31.11:469][300]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.04.11-13.31.16:305][586]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.31.16:546][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.11-13.31.17:329][629]Candidate modules for hot reload:
+[2020.04.11-13.31.17:329][629]  BattleTank
+[2020.04.11-13.31.17:330][629]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BattleTank,5629 Win64 Development -TargetType=Editor -Project="C:/Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/BattleTank.uproject" "C:/Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/BattleTank.uproject"  -IgnoreJunk]
+[2020.04.11-13.31.17:331][629]Warning: Starting HotReload took  0.0s.
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: New page: Compilation - Apr 11, 2020, 11:31:19 PM
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank).
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Building BattleTankEditor...
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Using Visual Studio 2019 14.25.28612 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Building 3 actions with 8 processes...
+[2020.04.11-13.31.19:457][737]CompilerResultsLog:   [1/3] UE4Editor-BattleTank-5629.lib
+[2020.04.11-13.31.19:457][737]CompilerResultsLog:      Creating library C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-5629.lib and object C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-5629.exp
+[2020.04.11-13.31.19:457][737]CompilerResultsLog:   [2/3] UE4Editor-BattleTank-5629.dll
+[2020.04.11-13.31.19:457][737]CompilerResultsLog:      Creating library C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-5629.suppressed.lib and object C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-5629.suppressed.exp
+[2020.04.11-13.31.19:457][737]CompilerResultsLog:   [3/3] BattleTankEditor.target
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Total time in Parallel executor: 0.97 seconds
+[2020.04.11-13.31.19:457][737]CompilerResultsLog: Total execution time: 2.01 seconds
+[2020.04.11-13.31.19:457][737]LogMainFrame: MainFrame: Module compiling took 2.131 seconds
+[2020.04.11-13.31.19:497][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.11-13.31.19:525][737]LogClass: EFiringState HotReload.
+[2020.04.11-13.31.19:530][737]LogHotReload: Re-instancing TankAimingComponent after hot-reload.
+[2020.04.11-13.31.19:742][737]LogContentBrowser: Native class hierarchy updated for 'BattleTank' in 0.0004 seconds. Added 10 classes and 3 folders.
+[2020.04.11-13.31.19:748][737]Display: HotReload successful (12 functions remapped  0 scriptstructs remapped)
+[2020.04.11-13.31.19:857][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.11-13.31.19:872][737]LogContentBrowser: Native class hierarchy populated in 0.0075 seconds. Added 3027 classes and 723 folders.
+[2020.04.11-13.31.19:873][737]Display: HotReload took  2.6s.
+[2020.04.11-13.31.20:482][755]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.31.20:500][755]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.20:500][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.31.20:500][755]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:31:20 PM)
+[2020.04.11-13.31.20:501][755]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.31.20:637][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136347s)
+[2020.04.11-13.31.20:637][755]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.31.20:638][755]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.04.11-13.31.20:638][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.137355s)
+[2020.04.11-13.31.20:688][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.31.20:691][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.31.20:691][755]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.31.20:691][755]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.31.20:705][755]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.31.20:715][755]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.31.20:717][755]LogInit: FAudioDevice initialized.
+[2020.04.11-13.31.20:724][755]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.31.20:731][755]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.31.20
+[2020.04.11-13.31.20:732][755]LogWorld: Bringing up level for play took: 0.007059
+[2020.04.11-13.31.20:732][755]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.04.11-13.31.20:735][755]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround -0.641
+[2020.04.11-13.31.20:735][755]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.21:396][794]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.22:929][886]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.25:845][ 61]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.26:046][ 73]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.26:262][ 86]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:795][238]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:812][239]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:845][241]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:862][242]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:878][243]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:895][244]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:911][245]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:928][246]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:945][247]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:961][248]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:978][249]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.28:995][250]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:012][251]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:028][252]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:045][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:062][254]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:079][255]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:095][256]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:111][257]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:128][258]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:144][259]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:161][260]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:178][261]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:195][262]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:212][263]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:228][264]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:245][265]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:261][266]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:278][267]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:295][268]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:312][269]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:328][270]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:345][271]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:361][272]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:380][273]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:395][274]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:412][275]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:428][276]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:445][277]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:462][278]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:479][279]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:495][280]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:512][281]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:528][282]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:545][283]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:562][284]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:578][285]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:595][286]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:611][287]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:628][288]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:644][289]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:661][290]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:678][291]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:694][292]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:711][293]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:728][294]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:744][295]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:761][296]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:778][297]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:795][298]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:811][299]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:829][300]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:845][301]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:861][302]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:878][303]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:894][304]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:911][305]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:927][306]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:944][307]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:961][308]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:978][309]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.29:995][310]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:011][311]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:028][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:044][313]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:061][314]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:078][315]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:095][316]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:112][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:112][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:128][318]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:145][319]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:161][320]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:178][321]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:195][322]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:211][323]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:228][324]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:245][325]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:261][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:278][327]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:295][328]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:312][329]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:328][330]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:345][331]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:361][332]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:378][333]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:395][334]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:411][335]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:429][336]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:445][337]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:462][338]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:478][339]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:495][340]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:512][341]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:529][342]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:545][343]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:561][344]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:578][345]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:595][346]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:611][347]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:628][348]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:644][349]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:661][350]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:678][351]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.31.30:679][351]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.30:686][351]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.31.30:706][351]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.31.30:706][351]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.30:706][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.31.30:706][351]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.31.30:706][351]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.30:706][351]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.31.30:707][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.31.30:716][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.31.30:716][351]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.31.30:721][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.31.30:755][351]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.31.30:757][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.31.30:769][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.04.11-13.31.30:790][352]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.11-13.32.18:460][160]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.32.18:750][160]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.04.11-13.32.19:937][225]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.32.19:954][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.19:954][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.32.19:954][225]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:32:19 PM)
+[2020.04.11-13.32.19:954][225]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.32.20:085][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130164s)
+[2020.04.11-13.32.20:086][225]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.32.20:086][225]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2020.04.11-13.32.20:086][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.131327s)
+[2020.04.11-13.32.20:126][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.32.20:128][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.32.20:128][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.32.20:129][225]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.32.20:129][225]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.32.20:143][225]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.32.20:144][225]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.32.20:154][225]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.32.20:155][225]LogInit: FAudioDevice initialized.
+[2020.04.11-13.32.20:161][225]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.32.20:169][225]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.32.20
+[2020.04.11-13.32.20:169][225]LogWorld: Bringing up level for play took: 0.007158
+[2020.04.11-13.32.20:170][225]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.04.11-13.32.20:173][225]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.797
+[2020.04.11-13.32.20:173][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.20:417][239]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.24:782][501]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:598][730]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:615][731]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:631][732]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:648][733]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:665][734]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:681][735]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:698][736]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:715][737]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:732][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:748][739]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:765][740]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:782][741]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:798][742]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:815][743]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:832][744]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:848][745]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:865][746]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:882][747]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:898][748]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:914][749]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:931][750]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:948][751]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:965][752]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:982][753]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.28:998][754]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:015][755]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:032][756]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:048][757]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:065][758]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:081][759]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:098][760]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:115][761]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:131][762]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:148][763]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:165][764]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:181][765]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:198][766]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:231][768]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:248][769]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:265][770]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:281][771]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:315][773]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:332][774]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:348][775]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:365][776]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:382][777]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:398][778]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:415][779]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:432][780]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:481][783]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:565][788]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:648][793]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.29:748][799]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.32.42:395][556]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.32.42:406][556]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.32.42:426][556]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.32.42:427][556]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.42:427][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.32.42:427][556]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.32.42:427][556]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.32.42:427][556]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.32.42:427][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.32.42:438][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.32.42:438][556]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.42:444][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.32.42:482][556]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.32.42:484][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.32.42:494][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.11-13.32.42:515][557]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.11-13.32.56:673][394]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.32.56:954][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2020.04.11-13.32.57:984][452]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.32.58:000][452]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.58:000][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.32.58:000][452]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:32:58 PM)
+[2020.04.11-13.32.58:000][452]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.32.58:128][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127235s)
+[2020.04.11-13.32.58:128][452]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.32.58:129][452]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2020.04.11-13.32.58:129][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.128174s)
+[2020.04.11-13.32.58:171][452]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.32.58:172][452]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.32.58:173][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.32.58:173][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.32.58:173][452]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.32.58:173][452]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.32.58:187][452]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.32.58:197][452]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.32.58:198][452]LogInit: FAudioDevice initialized.
+[2020.04.11-13.32.58:203][452]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.32.58:211][452]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.32.58
+[2020.04.11-13.32.58:211][452]LogWorld: Bringing up level for play took: 0.007110
+[2020.04.11-13.32.58:211][452]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.04.11-13.32.58:214][452]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.839
+[2020.04.11-13.32.58:214][452]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.32.58:408][463]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.33.00:358][580]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.33.00:376][580]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.33.00:396][580]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.33.00:397][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.33.00:397][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.33.00:397][580]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.33.00:397][580]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.33.00:397][580]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.33.00:397][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.33.00:406][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.33.00:406][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.33.00:412][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.33.00:448][580]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.33.00:450][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.33.00:460][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.11-13.33.00:480][581]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.11-13.33.44:944][301]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.33.45:250][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.04.11-13.33.55:902][918]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.33.56:199][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2020.04.11-13.33.57:256][975]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.33.57:272][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.33.57:272][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.33.57:272][975]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:33:57 PM)
+[2020.04.11-13.33.57:272][975]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.33.57:406][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133955s)
+[2020.04.11-13.33.57:407][975]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.33.57:407][975]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.04.11-13.33.57:407][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.135077s)
+[2020.04.11-13.33.57:451][975]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.33.57:453][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.33.57:453][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.33.57:454][975]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.33.57:454][975]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.33.57:468][975]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.33.57:478][975]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.33.57:480][975]LogInit: FAudioDevice initialized.
+[2020.04.11-13.33.57:486][975]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.33.57:494][975]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.33.57
+[2020.04.11-13.33.57:494][975]LogWorld: Bringing up level for play took: 0.006973
+[2020.04.11-13.33.57:495][975]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.04.11-13.33.57:498][975]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.122
+[2020.04.11-13.33.57:498][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.33.57:525][976]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.33.58:623][ 42]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.03:524][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.03:536][336]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.34.03:557][336]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.34.03:557][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.03:557][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.34.03:557][336]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.34.03:557][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.03:558][336]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.34.03:558][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.34.03:568][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.34.03:568][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.03:574][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.34.03:611][336]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.03:614][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.34.03:625][336]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.11-13.34.03:647][337]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.04.11-13.34.29:804][359]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.34.30:124][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.11-13.34.31:173][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.34.31:189][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.31:189][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.34.31:190][412]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:34:31 PM)
+[2020.04.11-13.34.31:190][412]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.34.31:329][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139729s)
+[2020.04.11-13.34.31:330][412]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.34.31:330][412]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2020.04.11-13.34.31:330][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.140844s)
+[2020.04.11-13.34.31:373][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.34.31:375][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.34.31:375][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.34.31:376][412]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.34.31:376][412]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.34.31:390][412]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.34.31:401][412]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.34.31:402][412]LogInit: FAudioDevice initialized.
+[2020.04.11-13.34.31:409][412]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.34.31:417][412]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.34.31
+[2020.04.11-13.34.31:418][412]LogWorld: Bringing up level for play took: 0.007257
+[2020.04.11-13.34.31:418][412]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.04.11-13.34.31:421][412]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.045
+[2020.04.11-13.34.31:421][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.31:885][439]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.34:133][574]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.34:716][609]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:084][871]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:101][872]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:117][873]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:136][874]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:151][875]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:167][876]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:183][877]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:200][878]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:217][879]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:233][880]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:250][881]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:267][882]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:284][883]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:301][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:317][885]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:334][886]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:350][887]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:368][888]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:384][889]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:401][890]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:418][891]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:434][892]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:451][893]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:467][894]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:484][895]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:501][896]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:518][897]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:534][898]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:551][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:567][900]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:583][901]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:600][902]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:617][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:634][904]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:651][905]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:684][907]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:701][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:717][909]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:734][910]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:768][912]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:784][913]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:801][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:818][915]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:868][918]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.39:884][919]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.40:034][928]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.40:167][936]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.40:417][951]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.41:685][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.41:686][ 27]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.34.41:706][ 27]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.34.41:706][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.41:706][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.34.41:706][ 27]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.34.41:706][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.41:707][ 27]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.34.41:707][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.34.41:719][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.34.41:719][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.41:725][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.34.41:761][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.34.41:763][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.34.41:774][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.11-13.34.41:794][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.11-13.34.47:619][363]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.34.47:912][363]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.11-13.34.48:850][413]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.34.48:866][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.48:866][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.34.48:866][413]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:34:48 PM)
+[2020.04.11-13.34.48:866][413]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.34.48:997][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130842s)
+[2020.04.11-13.34.48:998][413]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.34.48:998][413]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2020.04.11-13.34.48:998][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.131940s)
+[2020.04.11-13.34.49:039][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.34.49:041][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.34.49:041][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.34.49:042][413]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.34.49:042][413]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.34.49:056][413]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.34.49:067][413]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.34.49:068][413]LogInit: FAudioDevice initialized.
+[2020.04.11-13.34.49:077][413]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.34.49:085][413]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.34.49
+[2020.04.11-13.34.49:085][413]LogWorld: Bringing up level for play took: 0.007300
+[2020.04.11-13.34.49:085][413]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.04.11-13.34.49:088][413]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround -0.287
+[2020.04.11-13.34.49:088][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.34.49:198][419]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:496][857]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:513][858]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:530][859]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:546][860]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:563][861]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:579][862]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:597][863]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:612][864]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:629][865]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:646][866]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:663][867]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:679][868]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:696][869]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:713][870]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:729][871]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:746][872]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:763][873]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:779][874]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:797][875]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:813][876]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:829][877]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:846][878]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:863][879]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:879][880]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:896][881]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:912][882]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:929][883]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:946][884]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:979][886]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.56:996][887]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:013][888]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:029][889]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:063][891]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:079][892]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:096][893]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:112][894]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:146][896]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:163][897]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:179][898]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:196][899]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:229][901]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:246][902]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:263][903]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:279][904]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:313][906]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:329][907]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:346][908]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:380][910]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:396][911]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:413][912]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:430][913]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:447][914]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:479][916]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:496][917]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:512][918]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:563][921]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:579][922]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:713][930]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:729][931]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:796][935]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:812][936]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:846][938]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:862][939]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:879][940]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:896][941]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:912][942]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:946][944]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:963][945]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:979][946]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.57:996][947]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:013][948]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:029][949]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:047][950]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:063][951]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:096][953]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:113][954]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:130][955]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:147][956]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:180][958]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:197][959]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:213][960]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:229][961]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:262][963]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:279][964]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:296][965]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:313][966]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:346][968]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:363][969]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:379][970]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:396][971]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:413][972]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:446][974]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:463][975]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:480][976]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:497][977]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:530][979]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:546][980]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:563][981]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:580][982]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:613][984]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:630][985]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:647][986]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:679][988]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:696][989]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:713][990]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:746][992]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:762][993]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:779][994]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:796][995]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:813][996]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:829][997]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:846][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:863][999]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:880][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:896][  1]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:913][  2]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:930][  3]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:946][  4]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:963][  5]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:980][  6]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.58:996][  7]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:013][  8]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:030][  9]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:047][ 10]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:063][ 11]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:080][ 12]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:096][ 13]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:112][ 14]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:129][ 15]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:146][ 16]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:162][ 17]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:179][ 18]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:196][ 19]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:213][ 20]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:229][ 21]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:246][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:262][ 23]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:279][ 24]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:296][ 25]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:313][ 26]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:329][ 27]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:362][ 29]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:380][ 30]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:396][ 31]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:414][ 32]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:447][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:463][ 35]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:479][ 36]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:496][ 37]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:512][ 38]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:529][ 39]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:546][ 40]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:563][ 41]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:580][ 42]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:597][ 43]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:613][ 44]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:629][ 45]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:646][ 46]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:663][ 47]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:679][ 48]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:696][ 49]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:713][ 50]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:729][ 51]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:746][ 52]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:763][ 53]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:780][ 54]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:797][ 55]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:813][ 56]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:830][ 57]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:846][ 58]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:863][ 59]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:880][ 60]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:896][ 61]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:913][ 62]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:929][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:946][ 64]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:963][ 65]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:979][ 66]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.34.59:996][ 67]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:013][ 68]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:030][ 69]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:046][ 70]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:062][ 71]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:079][ 72]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:096][ 73]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:113][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:129][ 75]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:146][ 76]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:163][ 77]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:179][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:196][ 79]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:213][ 80]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:230][ 81]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:246][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:262][ 83]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:279][ 84]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:296][ 85]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:312][ 86]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:329][ 87]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:346][ 88]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:363][ 89]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:379][ 90]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:396][ 91]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:413][ 92]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:429][ 93]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:446][ 94]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:463][ 95]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:480][ 96]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:496][ 97]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:513][ 98]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:530][ 99]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:546][100]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:563][101]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:580][102]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:597][103]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:612][104]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:629][105]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:646][106]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:662][107]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:679][108]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:696][109]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:713][110]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:729][111]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:746][112]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:762][113]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:779][114]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:796][115]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:813][116]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:829][117]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:846][118]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:863][119]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:879][120]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:896][121]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:913][122]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:930][123]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:947][124]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:963][125]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:980][126]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.00:996][127]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:013][128]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:030][129]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:047][130]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:063][131]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:079][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:096][133]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:113][134]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:130][135]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:147][136]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:164][137]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:180][138]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:196][139]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:213][140]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:230][141]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:246][142]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:280][144]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:296][145]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.01:798][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.01:806][175]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.35.01:825][175]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.35.01:826][175]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.01:826][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.35.01:826][175]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.35.01:826][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.01:826][175]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.35.01:826][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.35.01:842][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.35.01:842][175]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.01:848][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.35.01:888][175]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.01:890][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.35.01:901][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.11-13.35.01:922][176]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.11-13.35.29:803][806]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.35.30:190][806]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.11-13.35.31:919][901]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.35.31:935][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.31:935][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.35.31:935][901]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:35:31 PM)
+[2020.04.11-13.35.31:935][901]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.35.32:083][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147713s)
+[2020.04.11-13.35.32:084][901]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.35.32:084][901]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2020.04.11-13.35.32:084][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.148752s)
+[2020.04.11-13.35.32:124][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.35.32:126][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.35.32:126][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.35.32:127][901]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.35.32:127][901]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.35.32:141][901]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.35.32:155][901]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.35.32:156][901]LogInit: FAudioDevice initialized.
+[2020.04.11-13.35.32:163][901]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.35.32:175][901]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.35.32
+[2020.04.11-13.35.32:175][901]LogWorld: Bringing up level for play took: 0.011555
+[2020.04.11-13.35.32:175][901]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.04.11-13.35.32:178][901]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.803
+[2020.04.11-13.35.32:179][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.32:376][912]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.39:691][351]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:240][384]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:257][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:274][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:290][387]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:307][388]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:324][389]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:340][390]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:357][391]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:374][392]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:391][393]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:407][394]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:424][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:441][396]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:457][397]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:474][398]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:490][399]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:507][400]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:524][401]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:541][402]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:557][403]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:574][404]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:591][405]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:607][406]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:624][407]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:641][408]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:657][409]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:674][410]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:690][411]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:707][412]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:724][413]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:740][414]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:757][415]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:774][416]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:791][417]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:807][418]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:824][419]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:841][420]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:857][421]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:874][422]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:891][423]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:908][424]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:908][424]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:924][425]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:940][426]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:957][427]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:974][428]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.40:990][429]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:007][430]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:024][431]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:040][432]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:057][433]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:074][434]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:091][435]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:107][436]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:124][437]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:141][438]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:142][438]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:157][439]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:174][440]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:208][442]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:224][443]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:240][444]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:257][445]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:274][446]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:290][447]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:307][448]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:324][449]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:341][450]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:358][451]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:374][452]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:391][453]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:408][454]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:424][455]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:442][456]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:458][457]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:459][457]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:474][458]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:490][459]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:508][460]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:524][461]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:541][462]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:557][463]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:574][464]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:591][465]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:608][466]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:624][467]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:641][468]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:658][469]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:674][470]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:690][471]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:707][472]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:724][473]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:741][474]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:757][475]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:774][476]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:791][477]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:808][478]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:824][479]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:841][480]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:858][481]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:874][482]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:891][483]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:908][484]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:925][485]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:941][486]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:957][487]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:974][488]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.41:991][489]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:008][490]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:024][491]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:041][492]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:058][493]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:074][494]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:091][495]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:108][496]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:125][497]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:142][498]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:158][499]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:175][500]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:192][501]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:208][502]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:225][503]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:242][504]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:258][505]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:275][506]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:292][507]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:308][508]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:324][509]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:342][510]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:358][511]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:374][512]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:391][513]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:408][514]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:425][515]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:441][516]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:458][517]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:475][518]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:491][519]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:508][520]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:525][521]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:542][522]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:558][523]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:575][524]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:591][525]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:608][526]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:624][527]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:641][528]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:658][529]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:675][530]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:691][531]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:708][532]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:725][533]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:741][534]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:758][535]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:775][536]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:791][537]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:808][538]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:825][539]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:841][540]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:858][541]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:875][542]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:891][543]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:908][544]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:924][545]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:941][546]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:958][547]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:974][548]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.42:992][549]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:008][550]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:025][551]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:042][552]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:058][553]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:075][554]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:092][555]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:108][556]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:125][557]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:142][558]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:158][559]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:175][560]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:192][561]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:208][562]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:225][563]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:242][564]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:258][565]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:274][566]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:291][567]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:308][568]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:325][569]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:342][570]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:358][571]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:375][572]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:391][573]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:408][574]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:425][575]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:442][576]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:458][577]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:474][578]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:491][579]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:508][580]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:525][581]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:541][582]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:558][583]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:575][584]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:591][585]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:608][586]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:625][587]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:642][588]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:658][589]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:675][590]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:691][591]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:708][592]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:725][593]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:741][594]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:758][595]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:775][596]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:791][597]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:808][598]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:825][599]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:842][600]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:858][601]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:875][602]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:892][603]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:908][604]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:925][605]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:942][606]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:958][607]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:975][608]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.43:991][609]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:008][610]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:024][611]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:042][612]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:058][613]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:074][614]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:092][615]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:108][616]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:125][617]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:141][618]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:158][619]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:175][620]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:192][621]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:208][622]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:225][623]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:241][624]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:258][625]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:274][626]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:292][627]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:308][628]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:325][629]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:341][630]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:358][631]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:375][632]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:391][633]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:409][634]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:425][635]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:442][636]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:458][637]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:476][638]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:492][639]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:509][640]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:525][641]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:542][642]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:559][643]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:576][644]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:592][645]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:609][646]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:624][647]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:642][648]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:658][649]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:674][650]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:691][651]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:708][652]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:725][653]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:741][654]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:758][655]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:775][656]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:791][657]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:808][658]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:825][659]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:841][660]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:858][661]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:875][662]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:891][663]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:908][664]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:925][665]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:941][666]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:958][667]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:975][668]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.44:991][669]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:008][670]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:024][671]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:041][672]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:058][673]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:074][674]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:091][675]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:108][676]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:125][677]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.35.45:125][677]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.45:136][677]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.35.45:156][677]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.35.45:156][677]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.45:156][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.35.45:156][677]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.35.45:156][677]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.45:156][677]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.35.45:157][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.35.45:164][677]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.35.45:164][677]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.45:170][677]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.35.45:207][677]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.35.45:210][677]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.35.45:221][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.04.11-13.35.45:243][678]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.11-13.35.58:435][458]BlueprintLog: New page: Compile TankActor_BP
+[2020.04.11-13.35.58:751][458]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.11-13.35.59:700][511]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.11-13.35.59:718][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.35.59:718][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.11-13.35.59:719][511]PIE: New page: PIE session: BattleGround (Apr 11, 2020, 11:35:59 PM)
+[2020.04.11-13.35.59:719][511]LogPlayLevel: Creating play world package: /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.35.59:849][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129418s)
+[2020.04.11-13.35.59:849][511]LogAIModule: Creating AISystem for world BattleGround
+[2020.04.11-13.35.59:849][511]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2020.04.11-13.35.59:849][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Levels/BattleGround.BattleGround to /Game/_Levels/UEDPIE_0_BattleGround.BattleGround (0.130385s)
+[2020.04.11-13.35.59:889][511]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2020.04.11-13.35.59:891][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2020.04.11-13.35.59:891][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.11-13.35.59:892][511]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.11-13.35.59:892][511]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Name: Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Is Default: Yes
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: Channel Order:
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.11-13.35.59:906][511]LogAudioMixer: Display: 1: FrontRight
+[2020.04.11-13.35.59:917][511]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (USB Audio Device)
+[2020.04.11-13.35.59:918][511]LogInit: FAudioDevice initialized.
+[2020.04.11-13.35.59:922][511]LogLoad: Game class is 'BattleTankMode_BP_C'
+[2020.04.11-13.35.59:930][511]LogWorld: Bringing World /Game/_Levels/UEDPIE_0_BattleGround.BattleGround up for play (max tick rate 60) at 2020.04.11-18.35.59
+[2020.04.11-13.35.59:930][511]LogWorld: Bringing up level for play took: 0.007114
+[2020.04.11-13.35.59:931][511]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.04.11-13.35.59:934][511]PIE: Play in editor start time for /Game/_Levels/UEDPIE_0_BattleGround 0.558
+[2020.04.11-13.35.59:934][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.36.00:093][520]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.06:027][876]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.06:242][889]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:058][998]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:075][999]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:092][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:109][  1]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:126][  2]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:142][  3]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:159][  4]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:175][  5]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:191][  6]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:208][  7]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:226][  8]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:242][  9]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:258][ 10]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:276][ 11]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:292][ 12]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:309][ 13]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:325][ 14]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:342][ 15]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:358][ 16]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:375][ 17]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:392][ 18]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:409][ 19]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:425][ 20]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:442][ 21]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:458][ 22]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:475][ 23]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:492][ 24]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:508][ 25]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:525][ 26]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:542][ 27]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:559][ 28]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:575][ 29]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:592][ 30]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:609][ 31]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:625][ 32]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:642][ 33]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:659][ 34]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:675][ 35]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:692][ 36]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:709][ 37]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:726][ 38]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:742][ 39]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:758][ 40]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:775][ 41]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:792][ 42]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:808][ 43]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:825][ 44]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:842][ 45]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:859][ 46]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:875][ 47]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:892][ 48]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:908][ 49]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:925][ 50]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:942][ 51]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:958][ 52]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:975][ 53]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.08:992][ 54]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:008][ 55]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:025][ 56]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:042][ 57]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:059][ 58]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:075][ 59]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:092][ 60]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:109][ 61]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:125][ 62]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:142][ 63]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:159][ 64]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:192][ 66]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:209][ 67]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:226][ 68]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:242][ 69]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:259][ 70]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:275][ 71]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:292][ 72]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:309][ 73]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:326][ 74]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:342][ 75]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:359][ 76]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:376][ 77]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:392][ 78]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:408][ 79]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:425][ 80]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:442][ 81]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:458][ 82]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:475][ 83]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:492][ 84]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:508][ 85]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:525][ 86]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:542][ 87]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:558][ 88]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:575][ 89]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:591][ 90]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:608][ 91]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:665][ 92]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:670][ 93]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:687][ 94]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:704][ 95]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:721][ 96]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:737][ 97]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:753][ 98]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:771][ 99]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:787][100]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:804][101]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:820][102]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:837][103]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:854][104]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:871][105]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:888][106]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:904][107]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:921][108]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:937][109]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:954][110]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:971][111]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.09:987][112]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:004][113]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:020][114]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:037][115]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:054][116]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:070][117]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:087][118]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:104][119]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:121][120]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:137][121]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:154][122]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:170][123]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:187][124]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:203][125]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:220][126]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:237][127]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:254][128]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:270][129]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:288][130]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:304][131]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:321][132]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:338][133]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:354][134]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:371][135]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:388][136]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:404][137]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:421][138]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:437][139]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:454][140]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:471][141]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:487][142]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:504][143]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:521][144]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:537][145]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:554][146]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:571][147]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:587][148]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:604][149]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:621][150]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:638][151]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:654][152]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:671][153]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:688][154]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:704][155]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:721][156]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:738][157]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:754][158]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:771][159]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:787][160]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:803][161]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:820][162]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:837][163]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:854][164]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:870][165]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:887][166]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:904][167]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:920][168]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:937][169]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:954][170]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:971][171]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.10:987][172]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:004][173]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:021][174]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:037][175]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:054][176]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:071][177]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:088][178]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:104][179]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:121][180]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:138][181]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:154][182]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:170][183]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:187][184]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:204][185]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:221][186]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:238][187]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:254][188]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:271][189]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:288][190]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:304][191]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:321][192]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:338][193]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:355][194]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:370][195]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:387][196]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:404][197]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:420][198]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:437][199]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:454][200]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:470][201]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:487][202]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:504][203]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:521][204]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:537][205]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:554][206]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:571][207]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:587][208]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:604][209]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:621][210]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:638][211]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:653][212]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:670][213]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:687][214]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:704][215]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:721][216]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:738][217]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:754][218]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:771][219]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:787][220]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:804][221]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:821][222]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:837][223]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:854][224]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:871][225]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:888][226]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:904][227]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:920][228]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:938][229]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:954][230]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:971][231]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.11:988][232]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.12:004][233]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.12:021][234]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.12:888][286]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:237][307]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:254][308]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:271][309]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:288][310]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:305][311]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:320][312]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:337][313]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:354][314]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:370][315]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:387][316]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:404][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:421][318]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:438][319]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:454][320]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:470][321]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:487][322]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:504][323]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:520][324]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:537][325]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:554][326]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:570][327]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:587][328]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:604][329]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:621][330]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:637][331]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:654][332]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:671][333]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:687][334]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:704][335]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:721][336]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:738][337]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:754][338]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:771][339]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:788][340]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:804][341]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:820][342]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:837][343]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:853][344]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:870][345]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:887][346]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:904][347]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:921][348]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:937][349]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:954][350]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:970][351]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.13:987][352]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:004][353]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:020][354]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:037][355]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:054][356]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:071][357]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:087][358]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:104][359]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:121][360]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:137][361]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:154][362]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:171][363]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:188][364]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:204][365]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:221][366]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:238][367]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:254][368]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:271][369]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:287][370]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:304][371]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:321][372]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:338][373]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:354][374]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:371][375]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:387][376]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:404][377]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:421][378]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:438][379]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:454][380]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:471][381]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:488][382]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:504][383]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:521][384]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:537][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:554][386]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:570][387]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:588][388]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:605][389]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:621][390]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:637][391]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:654][392]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:670][393]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:704][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:721][396]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:737][397]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:754][398]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.14:770][399]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.15:522][444]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.15:938][469]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.04.11-13.36.16:338][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.36.16:346][493]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.04.11-13.36.16:366][493]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.04.11-13.36.16:366][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.36.16:366][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.36.16:366][493]LogWorld: BeginTearingDown for /Game/_Levels/UEDPIE_0_BattleGround
+[2020.04.11-13.36.16:366][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.36.16:367][493]LogWorld: UWorld::CleanupWorld for BattleGround, bSessionEnded=true, bCleanupResources=true
+[2020.04.11-13.36.16:367][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.36.16:375][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.11-13.36.16:375][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/_Levels/BattleGround.BattleGround:PersistentLevel' has LevelScriptBlueprint '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround' with GeneratedClass '/Game/_Levels/BattleGround.BattleGround_C' with ClassGeneratedBy '/Game/_Levels/BattleGround.BattleGround:PersistentLevel.BattleGround'
+[2020.04.11-13.36.16:381][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.11-13.36.16:420][493]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.11-13.36.16:422][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.11-13.36.16:432][493]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.04.11-13.36.16:457][494]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.04.11-13.44.45:856][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.11-13.44.46:284][126]LogSavePackage: Moving '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/BattleGround_Auto2130E8F174AF67885073408AE679EF27B.tmp' to '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/Autosaves/Game/_Levels/BattleGround_Auto2.umap'
+[2020.04.11-13.44.46:286][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/_Levels/BattleGround' took 0.521
+[2020.04.11-13.44.46:286][126]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.521
+[2020.04.11-13.44.46:287][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Tank/TankActor_BP] ([1] browsable assets)...
+[2020.04.11-13.44.46:299][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Tank/TankActor_BP.TankActor_BP]
+[2020.04.11-13.44.46:299][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tank/TankActor_BP]
+[2020.04.11-13.44.46:347][126]LogSavePackage: Moving '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/TankActor_BP_Auto26120ED624AC3F7C80E539A9D9F790250.tmp' to '../../../../../../Users/AmeerHamza/Documents/Unreal Projects/Unreal_Projects--Battle_Tank/BattleTank/Saved/Autosaves/Game/Tank/TankActor_BP_Auto2.uasset'
+[2020.04.11-13.44.46:348][126]LogFileHelpers: Auto-saving content packages took 0.062
