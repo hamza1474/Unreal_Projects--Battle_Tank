@@ -6,6 +6,7 @@
 #include "Components/StaticMeshComponent.h"
 #include "TankTrack.generated.h"
 
+class ASprungWheeel;
 /**
  * 
  */
@@ -26,11 +27,6 @@ private:
 	virtual void BeginPlay() override;
 	void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction);
 
-	void ApplySidewaysForce();
-
-	UFUNCTION(BlueprintCallable, Category = "Setup")
-	void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComponent, FVector NormalImpulse, const FHitResult& Hit);
-
-	float CurrentThrottle = 0.0f;
-	void DriveTrack();
+	TArray<ASprungWheeel*> GetWheels() const;
+	void DriveTrack(float CurrentThrottle);
 };
