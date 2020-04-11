@@ -34,5 +34,5 @@ public:
 
 private:
 	UPROPERTY(EditDefaultsOnly, Category = "Health")
-	float TankHitpoints = 100.f;
+	float TankHitpoints;
 };

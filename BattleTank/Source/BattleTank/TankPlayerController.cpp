@@ -2,6 +2,7 @@
 
 #include "TankPlayerController.h"
 #include "TankAimingComponent.h"
+#include "Tank.h"
 #include "Camera/PlayerCameraManager.h"
 #include "Engine/World.h"
 
@@ -25,9 +26,29 @@ void ATankPlayerController::Tick(float DeltaTime)
 	AimTowardsCrossHair();
 }
 
+void ATankPlayerController::SetPawn(APawn* InPawn)
+{
+	Super::SetPawn(InPawn);
+	if (InPawn)
+	{
+		auto PossessedTank = Cast<ATank>(InPawn);
+		if (!ensure(PossessedTank)) { return; }
+
+		PossessedTank->OnDeath.AddUniqueDynamic(this, &ATankPlayerController::OnPossessedTankDeath);
+	}
+}
+
+
+void ATankPlayerController::OnPossessedTankDeath()
+{
+	if (!GetPawn()) { return; }
+	StartSpectatingOnly();
+}
 
 void ATankPlayerController::AimTowardsCrossHair()
 {
+	auto ThisPawn = GetPawn();
+	if (!ThisPawn) { return; }
 	AimingComponent = GetPawn()->FindComponentByClass<UTankAimingComponent>();
 	if (!ensure(GetPawn() || AimingComponent)) { return; }
 	FVector OutHitLocation;
