@@ -7,6 +7,9 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\AxleRotator.cpp.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\SpawnPoint.cpp.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\SprungWheeel.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankMovementComponent.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankTrack.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
@@ -18,9 +21,12 @@
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankBarrel.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankPlayerController.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankTurret.cpp.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\AxleRotator.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.init.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Projectile.gen.cpp.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\SpawnPoint.gen.cpp.obj"
+"C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\SprungWheeel.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Tank.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAIController.gen.cpp.obj"
 "C:\Users\AmeerHamza\Documents\Unreal Projects\Unreal_Projects--Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\TankAimingComponent.gen.cpp.obj"
